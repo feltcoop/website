@@ -1,13 +1,21 @@
 {
-  "name": "felt.social",
+  "name": "@feltcoop/felt.social",
   "description": "customizable communities that feel good 💚",
-  "version": "0.0.1",
+  "version": "0.0.0",
+  "license": "AGPL-3.0-only",
+  "homepage": "https://felt.social",
   "author": {
-    "name": "Felt Co-op",
-    "email": "team@felt.social",
-    "url": "https://felt.social"
+    "name": "Felt.coop",
+    "email": "team@felt.coop",
+    "url": "https://felt.coop"
   },
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feltcoop/felt.social.git"
+  },
+  "bugs": {
+    "url": "https://github.com/feltcoop/felt.social/issues"
+  },
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper build --legacy",

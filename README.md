@@ -27,7 +27,8 @@ If you think so too, we hope you'll join us!
 - sign up for our mailing list at our
   **work in progress** [Felt.social](https://felt.social)
 
-## license
+## License
 
-[ISC](license)
-<sub>permissive <3 [learn more at Wikipedia](https://en.wikipedia.org/wiki/ISC_license)</sub>
+Copyright (c) 2020 Felt.coop <team@felt.coop> (<https://felt.coop>)
+
+[AGPL-3.0-only](LICENSE)
