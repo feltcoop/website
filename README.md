@@ -29,4 +29,4 @@ If you think so too, we hope you'll join us!
 
 ## License
 
-[AGPL-3.0-only](LICENSE) Copyright (c) 2020 Felt.coop team@felt.coop (<https://felt.coop>)
+[MIT](LICENSE)
