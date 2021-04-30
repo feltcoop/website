@@ -19,6 +19,7 @@
 		us, help us organize, and improve our communication. It's a free and open source alternative to
 		many websites and apps tucked into a warm fuzzy package.
 	</p>
+	<blockquote>tools for designing our digital lives</blockquote>
 	<p>
 		Our team is small and our goals are over the top. With the might of software we want to help
 		people solve priority problems with joy. Felt is what the web should be.

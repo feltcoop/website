@@ -104,3 +104,10 @@ code {
 		14%
 	);
 }
+
+blockquote {
+	padding: 4px 0 4px 24px;
+	margin: 0 0 10px;
+	border-left: 8px solid #ccc;
+	color: hsl(0, 4%, 57%);
+}
