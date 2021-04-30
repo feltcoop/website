@@ -13,4 +13,8 @@
 	header {
 		text-align: center;
 	}
+	a {
+		display: block;
+		margin-bottom: 16px;
+	}
 </style>

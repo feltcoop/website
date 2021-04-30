@@ -8,7 +8,7 @@
 
 <section>
 	<Header>
-		<h2>customizable communities that feel good</h2>
+		<h1>customizable communities that feel good</h1>
 	</Header>
 </section>
 <section>

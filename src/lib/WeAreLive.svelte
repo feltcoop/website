@@ -16,6 +16,6 @@
 		font-size: 32px;
 	}
 	.link {
-		font-size: 48px;
+		font-size: var(--font_size_xxl);
 	}
 </style>

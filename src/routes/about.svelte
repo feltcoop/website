@@ -10,7 +10,7 @@
 
 <section>
 	<Header>
-		<h2>about Felt</h2>
+		<h1>about Felt</h1>
 	</Header>
 </section>
 <section>
