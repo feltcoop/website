@@ -11,7 +11,7 @@
 		<h2>customizable communities that feel good</h2>
 	</Header>
 </section>
-<section class="intro">
+<section>
 	<Intro />
 </section>
 <section>
@@ -28,9 +28,5 @@
 	section {
 		margin-bottom: 40px;
 		max-width: 600px;
-	}
-	h2,
-	.intro {
-		text-align: center;
 	}
 </style>

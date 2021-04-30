@@ -9,12 +9,14 @@ is a community, service, and business
 powered by [Felt](https://github.com/feltcoop/felt),
 a set of free and open source tools for building
 customizable self-governing communities.
+
 Felt seeks to empower us,
 help us organize,
 and improve our communication —
 [Felt.social](https://felt.social) continues this mission
 by developing a sustainable business to
 foster communities that are effective, authentic, and humane.
+
 Our business is owned by a worker co-op
 and we're working to become
 a [platform co-op](https://platform.coop)
